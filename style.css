@@ -43,7 +43,7 @@ body {
   color: white;
   border: none;
   font-size: 20px;
-  transition: all linear 0.2s; /* for smoothing*/
+  transition: all linear 0.2s; 
 }
 .buttons button:hover {
   transform: scale(1.1);
